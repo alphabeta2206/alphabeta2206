@@ -1,5 +1,5 @@
 <p align="center">
-   <h2>Hey 🌈 I'm Abhinav Basil Shinow </h2>
+   <h2>Hey I'm Abhinav Basil Shinow </h2>
 </p>
 
 ---
